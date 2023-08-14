@@ -31,7 +31,7 @@
 <section data-background-image="https://res.cloudinary.com/dqlbbx7ud/image/upload/v1691984470/presentacion/Diap10_hy72rp.png"/>
 <section data-background-image="https://res.cloudinary.com/dqlbbx7ud/image/upload/v1691985031/presentacion/Diap11_vvxwe8.png"/>
 
-<div class="flex justify-end"><span class="text-sm text-red-400 font-bold">Ruta N, Agosto/2023</span></div>
+<div class="flex justify-end"><span class="text-sm text-red-400 font-bold">Ruta N, 14/Agosto/2023</span></div>
 
 
 
